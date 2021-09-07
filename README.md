@@ -27,7 +27,7 @@ Application / Server / Back-end / Big-Data
 
 ## Want to do
 <div>
-  <img src="https://img.shields.io/badge/SpringBoot-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgres-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   <img src="https://img.shields.io/badge/ElasticSearch-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
