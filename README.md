@@ -9,7 +9,7 @@ Application / Server / Back-end / Big-Data
 
 ##Stack
 <div>
-  <img src="https://img.shields.io/badge/Java-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaSpring-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
@@ -18,8 +18,8 @@ Application / Server / Back-end / Big-Data
 
 ##Little bit
 <div>
-  <img src="https://img.shields.io/badge/Python-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
@@ -31,7 +31,7 @@ Application / Server / Back-end / Big-Data
   <img src="https://img.shields.io/badge/Redis-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postgres-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   <img src="https://img.shields.io/badge/ElasticSearch-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Logstash=-컬러코드?style=flat-square&logo=Logstash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logstash-컬러코드?style=flat-square&logo=Logstash&logoColor=white"/>
   <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
 </div>
 
