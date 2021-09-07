@@ -7,16 +7,16 @@
 
 Application / Server / Back-end / Big-Data 
 
-##Stack
+## Stack
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaSpring-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
 </div>
 
-##Little bit
+## Little bit
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -25,7 +25,7 @@ Application / Server / Back-end / Big-Data
   <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
 </div>
 
-##Want to do
+## Want to do
 <div>
   <img src="https://img.shields.io/badge/SpringBoot-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
