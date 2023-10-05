@@ -45,6 +45,7 @@ Application / Server / Back-end / Big-Data
   <a href="https://www.instagram.com/chang_ee_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=dlckd159@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.notion.so/changpyolee/CHANG-LEE-e4794a046ab649c296f2c2695bb5c377?pvs=4"><img src="https://img.shields.io/badge/Notion-326CE5?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
 
 <!--
